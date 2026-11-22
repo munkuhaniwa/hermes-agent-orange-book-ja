@@ -16,7 +16,7 @@ Nous Research のオープンソース AI Agent フレームワーク [Hermes Ag
 | Part | 内容 | 状態 |
 | --- | --- | --- |
 | [Part 1: これは何か](translation/part1_s01-s03.md) | §01 Hermes と出会う / §02 60秒全景 / §03 Nous はなぜこれを造ったのか | 公開中 |
-| Part 2 | §04–§08 | 準備中 |
+| [Part 2: 実践編 — まず使ってみる](translation/part2_s04-s08.md) | §04 インストール / §05 初めての会話 / §06 一つの技を教える / §07 定時タスクと Kanban / §08 ブラウザパネル | 公開中 |
 
 PDF 版は、全 Part の翻訳完了後に GitHub Releases で配布予定です。
 
