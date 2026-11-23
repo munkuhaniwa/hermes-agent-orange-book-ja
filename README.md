@@ -20,6 +20,8 @@ Nous Research のオープンソース AI Agent フレームワーク [Hermes Ag
 | [Part 3: 手綱は自分で育つ](translation/part3_s09-s11.md) | §09 自己改善の3台のエンジン / §10 Curator / §11 「学ばないこと」の原則 | 公開中 |
 | [Part 4: どうやってあなたを覚えているか](translation/part4_s12-s15.md) | §12 3層メモリ / §13 セッション検索 / §14 Skill システム / §15 マルチ Agent の指揮 | 公開中 |
 | [Part 5: すべてをつなぐ](translation/part5_s16-s19.md) | §16 約90のツール / §17 MCP / §18 プラットフォームと Gateway / §19 3つの話しかける姿勢 | 公開中 |
+| [Part 6: マルチ Agent とオーケストレーション](translation/part6_s20-s22.md) | §20 delegate_task から Kanban へ / §21 愚直なカーネル / §22 8つの協働パターン | 公開中 |
+| [Part 7: デプロイ、安全と境界](translation/part7_s23-s26.md) | §23 デプロイ / §24 唯一の境界は OS / §25 Promptware 防御 / §26 自己改善する Agent | 公開中 |
 
 PDF 版は、全 Part の翻訳完了後に GitHub Releases で配布予定です。
 
