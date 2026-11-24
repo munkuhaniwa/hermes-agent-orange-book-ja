@@ -41,3 +41,5 @@ PDF 版は、全 Part の翻訳完了後に GitHub Releases で配布予定で�
 この翻訳が役に立ったら、コーヒー1杯分の制作支援をいただけると励みになります。いただいた支援は、翻訳制作の道具代（AI サブスクリプション等）に充てます。
 
 ☕ [『Hermes Agent 赤本』制作支援 — コーヒー1杯（Gumroad）](https://munkuhaniwa.gumroad.com/l/mazmua)
+
+☕ [Ko-fi でも支援できます](https://ko-fi.com/munkuhaniwa)
