@@ -36,4 +36,8 @@ PDF 版は、全 Part の翻訳完了後に GitHub Releases で配布予定で�
 - 原作: 『Hermes Agent 2.0: The Complete Guide』© 2026 HuaShu（花叔）— MIT License
 - 本リポジトリの日本語訳も MIT ライセンスで公開します。再利用の際は [LICENSE](LICENSE) の条件に従ってください
 
-<!-- 応援（コーヒー寄付）の置き場: Stripe 本人確認の完了後に、README 末尾へ静かに追加する（要件書 v0.4 の決定事項）。 -->
+## 応援
+
+この翻訳が役に立ったら、コーヒー1杯分の制作支援をいただけると励みになります。いただいた支援は、翻訳制作の道具代（AI サブスクリプション等）に充てます。
+
+☕ [『Hermes Agent 赤本』制作支援 — コーヒー1杯（Gumroad）](https://munkuhaniwa.gumroad.com/l/mazmua)
