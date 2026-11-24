@@ -35,6 +35,7 @@ PDF 版は、全 Part の翻訳完了後に GitHub Releases で配布予定で�
 
 - 原作: 『Hermes Agent 2.0: The Complete Guide』© 2026 HuaShu（花叔）— MIT License
 - 本リポジトリの日本語訳も MIT ライセンスで公開します。再利用の際は [LICENSE](LICENSE) の条件に従ってください
+- 原著者の紹介と他の作品（橙皮書シリーズ）へのリンク: [原著者について](AUTHOR.md)
 
 ## 応援
 
